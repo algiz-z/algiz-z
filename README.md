@@ -3,7 +3,7 @@ I'm a Nanzan Uni student.
 I only did programming at Uni, but started it personally.<br>
 Still studying these things, but want to get better in the near future.
 
-## Team Products
+## Team Projects
 - [Portolio](https://github.com/balckowl/portolio)
 
 ## About me
