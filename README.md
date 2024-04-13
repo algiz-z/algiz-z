@@ -9,8 +9,14 @@ Still studying these things, but want to get better in the near future.
 ## About me
 - [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)
 
-## Things that I used before
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,css,emacs,git,html,laravel,latex,linux,nextjs,nodejs,php,py,tailwind,ubuntu,vercel,vite,vscode,windows)](https://skillicons.dev)
+## Things that I used personally
+[![My Skills](https://skillicons.dev/icons?i=arduino,css,git,html,laravel,nextjs,nodejs,php,tailwind,vercel,vite,vscode)](https://skillicons.dev)
+
+## Things that I used at Uni
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,emacs,latex,linux,py,ubuntu,vscode)](https://skillicons.dev)
+
+## My Fav🥰:
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
