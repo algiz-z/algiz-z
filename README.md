@@ -1,3 +1,6 @@
+## About me
+[Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)
+
 ## Things that I used before
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,css,emacs,git,html,laravel,latex,linux,nextjs,nodejs,php,py,tailwind,ubuntu,vercel,vite,vscode,windows)](https://skillicons.dev)
 
