@@ -1,3 +1,11 @@
+## Hi guys!
+I'm a Nanzan Uni student.
+I only did programming at Uni, but started it personally.
+Still studying these things, but want to get better in athe near future.
+
+## Team Products
+-[Portolio]()
+
 ## About me
 [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)
 
