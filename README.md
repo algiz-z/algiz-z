@@ -12,7 +12,7 @@ Still studying these things, but want to get better in the near future.
 ## Things that I used before
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,css,emacs,git,html,laravel,latex,linux,nextjs,nodejs,php,py,tailwind,ubuntu,vercel,vite,vscode,windows)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algiz-z&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=algiz-z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
