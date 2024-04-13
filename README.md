@@ -15,7 +15,7 @@ Still studying these things, but want to get better in the near future.
 ## Things that I used at Uni
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,emacs,latex,linux,py,ubuntu,vscode)](https://skillicons.dev)
 
-## My Fav🥰:
+## My Fav🥰
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
