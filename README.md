@@ -6,6 +6,7 @@ Still studying these things, but want to get better in the near future.
 ## Team Projects
 - [Portolio](https://github.com/balckowl/portolio)
 - [SOZAI](https://soz-ai.com)
+- [SOZAI github](https://github.com/balckowl/sozai-netlify)
 
 ## About me
 - [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)
