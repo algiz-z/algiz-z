@@ -1,7 +1,7 @@
 ## Hi guys!
 I'm a Nanzan Uni student.
-I only did programming at Uni, but started it personally.<br>
-Still studying these things, but want to get better in the near future.
+I only did programming at Uni, but I started it personally.<br>
+I am still studying these things, but I want to improve soon.
 
 ## Team Projects
 - [Portolio](https://github.com/balckowl/portolio)
@@ -15,7 +15,7 @@ Still studying these things, but want to get better in the near future.
 [![My Skills](https://skillicons.dev/icons?i=arduino,css,git,html,laravel,nextjs,nodejs,php,tailwind,vercel,vite,vscode,aws)](https://skillicons.dev)
 
 ## Things that I used at Uni
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,emacs,latex,linux,py,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,emacs,latex,linux,py,ubuntu,vscode,haskell)](https://skillicons.dev)
 
 ## My Fav🥰
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
