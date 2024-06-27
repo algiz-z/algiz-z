@@ -12,10 +12,10 @@ I am still studying these things, but I want to improve soon.
 - [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)
 
 ## Things that I used personally
-[![My Skills](https://skillicons.dev/icons?i=arduino,css,git,html,laravel,nextjs,nodejs,php,tailwind,vercel,vite,vscode,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,arduino,c,aws,css,php,laravel,vite,vscode,git,nextjs,nodejs,tailwind,vercel)](https://skillicons.dev)
 
 ## Things that I used at Uni
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,emacs,latex,linux,py,ubuntu,vscode,haskell,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,java,mysql)](https://skillicons.dev)
 
 ## My Fav🥰
 [![My Skills](https://skillicons.dev/icons?i=windows,discord)](https://skillicons.dev)
