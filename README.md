@@ -18,7 +18,7 @@ I am still studying these things, but I want to improve soon.
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,emacs,latex,linux,py,ubuntu,vscode,haskell,mysql,java)](https://skillicons.dev)
 
 ## My Fav🥰
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,discord)](https://skillicons.dev)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
