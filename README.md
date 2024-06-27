@@ -15,7 +15,7 @@ I am still studying these things, but I want to improve soon.
 [![My Skills](https://skillicons.dev/icons?i=html,arduino,c,aws,css,php,laravel,vite,vscode,git,nextjs,nodejs,tailwind,vercel)](https://skillicons.dev)
 
 ## Things that I used at Uni
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,matlab,java,mysql)](https://skillicons.dev)
 
 ## My Fav🥰
 [![My Skills](https://skillicons.dev/icons?i=windows,discord)](https://skillicons.dev)
