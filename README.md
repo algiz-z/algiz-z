@@ -4,7 +4,8 @@ I only did programming at Uni, but I started it personally.<br>
 I am still studying these things, but I want to improve soon.
 
 ## Team Projects
-- [Portolio](https://github.com/balckowl/portolio-new-3)
+- [Portolio](https://zasetu-portolio.vercel.app)
+- [Portolio github](https://github.com/balckowl/portolio-new-3)
 - [SOZAI](https://soz-ai.com)
 - [SOZAI github](https://github.com/balckowl/sozai-netlify)
 
