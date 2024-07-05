@@ -9,7 +9,8 @@ I am still studying these things, but I want to improve soon.
 - [SOZAI github](https://github.com/balckowl/sozai-netlify)
 
 ## About me
-- [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)
+- [Portolio](https://zasetu-portolio.vercel.app/oOVZMLG6gSPMeVhavAZ0QJ2MtfP2)
+<!-- - [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)-->
 
 ## Things that I used personally
 [![My Skills](https://skillicons.dev/icons?i=html,arduino,c,aws,css,php,laravel,vite,vscode,git,nextjs,nodejs,tailwind,vercel)](https://skillicons.dev)
