@@ -3,7 +3,7 @@ I'm a Nanzan Uni student.
 I only did programming at Uni, but I started it personally.<br>
 I am still studying these things, but I want to improve soon.<br>
 I'll make a website and study harder on the 4th year.<br>
-I'm not a person of a star, but I'll grow as a best programmer that can help everyone! ;)
+I'm not a person of a star, but I'll grow as a best programmer that could make everyone happy! ;)
 
 ## Team Projects
 ### Hackathon
