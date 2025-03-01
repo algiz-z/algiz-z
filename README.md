@@ -1,13 +1,18 @@
 ## Hi guys!
 I'm a Nanzan Uni student.
 I only did programming at Uni, but I started it personally.<br>
-I am still studying these things, but I want to improve soon.
+I am still studying these things, but I want to improve soon.<br>
+I'm planning on making a website on the 4th year.<br>
+I'm not a person of a star, but I'll grow as a best programmer that can help everyone! ;)
 
 ## Team Projects
+### Hackathon
 - [Portolio](https://zasetu-portolio.vercel.app)
 - [Portolio github](https://github.com/balckowl/portolio-new-3)
 - [SOZAI](https://soz-ai.com)
 - [SOZAI github](https://github.com/balckowl/sozai-netlify)
+### Intern
+- [GlucoConnect](https://github.com/algiz-z/GlucoConnect)
 
 ## About me
 - [Portolio](https://zasetu-portolio.vercel.app/oOVZMLG6gSPMeVhavAZ0QJ2MtfP2)
