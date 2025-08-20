@@ -6,15 +6,15 @@ I'm not a person of a star, but I'll grow as a best programmer that could make e
 
 ## Team Projects
 ### Hackathon
-- [Portolio](https://zasetu-portolio.vercel.app)
-- [Portolio github](https://github.com/balckowl/portolio-new-3)
+- [Portolio: top page](https://zasetu-portolio.vercel.app)
+- [Portolio: github](https://github.com/balckowl/portolio-new-3)
   <!-- - [SOZAI](https://soz-ai.com)-->
-- [SOZAI github](https://github.com/balckowl/sozai-netlify)
+- [SOZAI: github](https://github.com/balckowl/sozai-netlify)
 ### Intern
-- [GlucoConnect](https://github.com/algiz-z/GlucoConnect)
+- [GlucoConnect: github](https://github.com/algiz-z/GlucoConnect)
 
-## About me
-- [Portolio](https://zasetu-portolio.vercel.app/oOVZMLG6gSPMeVhavAZ0QJ2MtfP2)
+<!-- ## About me
+- [Portolio](https://zasetu-portolio.vercel.app/oOVZMLG6gSPMeVhavAZ0QJ2MtfP2) -->
 <!-- - [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)-->
 
 ## Things that I used personally
