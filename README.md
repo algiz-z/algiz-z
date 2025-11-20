@@ -21,11 +21,11 @@ I'm not a person of a star, but I'll grow as a best programmer that could make e
 [![My Skills](https://skillicons.dev/icons?i=html,arduino,c,aws,css,php,laravel,vite,vscode,git,nextjs,nodejs,react,tailwind,vercel,postman,bash,docker)](https://skillicons.dev)
 
 ## Things that I used at Uni
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,matlab,octave,java,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,matlab,octave,java,mysql,php,c++)](https://skillicons.dev)
 FuelPHP
 
 ## My Fav🥰 (as a game player)
-[![My Skills](https://skillicons.dev/icons?i=windows,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,discord,twitter)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
