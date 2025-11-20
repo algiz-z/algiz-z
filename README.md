@@ -18,10 +18,10 @@ I'm not a person of a star, but I'll grow as a best programmer that could make e
 <!-- - [Portolio](https://portolio-zasetu.vercel.app/MFuHaYRhnWafsm0XyQjpkOvZsMk1)-->
 
 ## Things that I used personally
-[![My Skills](https://skillicons.dev/icons?i=html,arduino,c,aws,css,php,laravel,vite,vscode,git,nextjs,nodejs,react,tailwind,vercel,postman,bash,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,arduino,c,aws,css,php,laravel,vite,vscode,git,nextjs,nodejs,react,tailwind,vercel,postman,bash,ruby,docker,js)](https://skillicons.dev)
 
 ## Things that I used at Uni
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,matlab,octave,java,mysql,php,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,matlab,octave,java,mysql,php,eclipse,cpp)](https://skillicons.dev)
 FuelPHP
 
 ## My Fav🥰 (as a game player)
