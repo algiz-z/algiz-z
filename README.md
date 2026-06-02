@@ -1,6 +1,6 @@
 ## Hi guys!
 I'm a Nanzan Uni student.
-I only did programming at Uni, but I started it personally.<br>
+I only did programming at Uni, but I started it personally for my skill up.<br>
 I am still studying these things, but I want to improve soon.<br>
 I'm not a person of a star, but I'll grow as a best programmer that could make everyone happy! ;)
 
