@@ -28,6 +28,7 @@ FuelPHP
 ## My Fav🥰 (as a game player)
 [![My Skills](https://skillicons.dev/icons?i=windows,discord,twitter)](https://skillicons.dev)
 
+## Most used langs in my repo
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=algiz-z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
