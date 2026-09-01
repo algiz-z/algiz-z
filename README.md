@@ -1,8 +1,6 @@
 ## Hi guys!
-I'm a Nanzan Uni student.
-I only did programming at Uni, but I started it personally for my skill up.<br>
-I am still studying these things, but I want to improve soon.<br>
-I'm not a person of a star, but I'll grow as a best programmer that could make everyone happy! ;)
+Got a job! b <br>
+I'm gonna improve my skills 2 make everyone in the world happy ;)
 
 ## Team Projects
 ### Hackathon
@@ -23,6 +21,9 @@ I'm not a person of a star, but I'll grow as a best programmer that could make e
 ## Things that I used at Uni
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,emacs,haskell,latex,c,arduino,vscode,py,matlab,octave,java,mysql,php,eclipse,cpp)](https://skillicons.dev)
 FuelPHP
+
+## Things that I used at work
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ## My Fav🥰 (as a game player)
 [![My Skills](https://skillicons.dev/icons?i=windows,discord,twitter)](https://skillicons.dev)
