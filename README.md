@@ -31,7 +31,7 @@ FuelPHP
 ## Most used langs in my repo
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=algiz-z&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/algiz-z/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=algiz-z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
