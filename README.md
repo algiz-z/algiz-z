@@ -23,7 +23,7 @@ I'm gonna improve my skills 2 make everyone in the world happy ;)
 FuelPHP
 
 ## Things that I used at work
-<!-- [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=php,vscode,vim,docker,js,html,css,aws,git)](https://skillicons.dev)
 
 ## My Fav🥰 (as a game player)
 [![My Skills](https://skillicons.dev/icons?i=windows,discord,twitter)](https://skillicons.dev)
