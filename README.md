@@ -28,7 +28,7 @@ FuelPHP
 ## My Fav🥰 (as a game player)
 [![My Skills](https://skillicons.dev/icons?i=windows,discord,twitter)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=algiz-z)](https://github.com/stats-organization/github-stats-extended)
+<!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=algiz-z)](https://github.com/stats-organization/github-stats-extended) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=algiz-z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
